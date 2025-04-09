@@ -1,1 +1,1 @@
-pip install pycryptodomepillowtktkinterdnd2python-magic-bintqdmrequests qrcode mutagen speedtest-cli customtkinter psutil cryptography  matplotlib GPUtil setuptools WMI scapy cryptography
+pip install pycryptodome pillow tk tkinterdnd2 python-magic-bin tqdm requests qrcode mutagen speedtest-cli customtkinter psutil cryptography  matplotlib GPUtil setuptools WMI scapy cryptography
