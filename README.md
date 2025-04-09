@@ -15,7 +15,7 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaQR - v1.0**    | Générateur de QR codes 🔳                                                    |
 | **HexaInfo - v1.0**  | Analyse complète de fichiers : métadonnées, permissions, type réel 📂        |
 | **HexaNe - v1.0**   | Monitoring réseau : IP, MAC, ping, vitesse de connexion 🌐                   |
-| **HexaCrypt - v1.0** | Crypte les fichier avec un système de mot de passe 🔐                        |
+| **HexaCrypt - v2.0** | Crypte les fichier avec un système de mot de passe 🔐                        |
 
 ---
 
