@@ -10,12 +10,12 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 
 | **Nom**       | **Fonction**                                                                 |
 |---------------|-------------------------------------------------------------------------------|
-| **HexaPass**  | Vérifie et complexifie des mots de passe + test brute force 📛               |
-| **HexaPort**  | Scanner de ports TCP/UDP ⚙️                                                 |
-| **HexaQR**    | Générateur de QR codes 🔳                                                    |
-| **HexaInfo**  | Analyse complète de fichiers : métadonnées, permissions, type réel 📂        |
-| **HexaNet**   | Monitoring réseau : IP, MAC, ping, vitesse de connexion 🌐                   |
-| **HexaCrypt** | Crypte les fichier avec un système de mot de passe 🔐                        |
+| **HexaPass - v1.0**  | Vérifie et complexifie des mots de passe + test brute force 📛               |
+| **HexaPort - v1.0**  | Scanner de ports TCP/UDP ⚙️                                                 |
+| **HexaQR - v1.0**    | Générateur de QR codes 🔳                                                    |
+| **HexaInfo - v1.0**  | Analyse complète de fichiers : métadonnées, permissions, type réel 📂        |
+| **HexaNe - v1.0t**   | Monitoring réseau : IP, MAC, ping, vitesse de connexion 🌐                   |
+| **HexaCrypt - v1.0** | Crypte les fichier avec un système de mot de passe 🔐                        |
 
 ---
 
