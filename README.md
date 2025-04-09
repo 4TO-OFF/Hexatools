@@ -14,7 +14,7 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaPort - v1.0**  | Scanner de ports TCP/UDP ⚙️                                                 |
 | **HexaQR - v1.0**    | Générateur de QR codes 🔳                                                    |
 | **HexaInfo - v1.0**  | Analyse complète de fichiers : métadonnées, permissions, type réel 📂        |
-| **HexaNe - v1.0t**   | Monitoring réseau : IP, MAC, ping, vitesse de connexion 🌐                   |
+| **HexaNe - v1.0**   | Monitoring réseau : IP, MAC, ping, vitesse de connexion 🌐                   |
 | **HexaCrypt - v1.0** | Crypte les fichier avec un système de mot de passe 🔐                        |
 
 ---
@@ -23,11 +23,11 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 
 | **Nom**         | **Problème actuel**                                                                           |
 |-----------------|-----------------------------------------------------------------------------------------------|
-| **HexaConvert** | Ne fonctionne pas sans des outils externes compliqués à installer 🔧                          |
-| **HexaClean**   | Freeze ou crash pendant l’analyse des fichiers / doublons 💥                                  |
-| **HexaFind**    | Trop lent, freeze facilement si beaucoup de fichiers à chercher 🐢                            |
-| **HexaMonitor** | Affichage instable, infos système mal rafraîchies 🧯                                           |
-| **HexaScan**    | Pas assez précis pour les besoins actuels, nécessite une refonte complète 🔬                  |
+| **HexaConvert - v1.0** | Ne fonctionne pas sans des outils externes compliqués à installer 🔧                          |
+| **HexaClean - v1.0**   | Freeze ou crash pendant l’analyse des fichiers / doublons 💥                                  |
+| **HexaFind - v1.0**    | Trop lent, freeze facilement si beaucoup de fichiers à chercher 🐢                            |
+| **HexaMonitor - v1.0** | Affichage instable, infos système mal rafraîchies 🧯                                           |
+| **HexaScan - v1.0**    | Pas assez précis pour les besoins actuels, nécessite une refonte complète 🔬                  |
 
 ---
 
