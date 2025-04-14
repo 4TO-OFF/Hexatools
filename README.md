@@ -1,4 +1,4 @@
-# 🧰 HexaTools V 0.7.0 - Suite d'outils pratiques
+# 🧰 HexaTools V 0.8.0 - Suite d'outils pratiques
 
 ## 📌 Présentation
 HexaTools est un projet regroupant plusieurs mini-outils pensés pour faciliter des tâches techniques du quotidien : QR code, analyse de fichiers, réseau, sécurité, et plus encore.  
@@ -17,6 +17,7 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaNe - v1.0**   | Monitoring réseau : IP, MAC, ping, vitesse de connexion 🌐                   |
 | **HexaCrypt - v2.0** | Crypte les fichier avec un système de mot de passe 🔐                        |
 | **HexaPixel - v1.0** | Révèle aléatoirement des pixels d'une image et affiche la progression 🎨        |
+| **HexaASCII - v1.0** | Transforme en image ne carctère ASCII 🖼️                                      |
 
 ---
 
@@ -29,6 +30,8 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaFind - v1.0**    | Trop lent, freeze facilement si beaucoup de fichiers à chercher 🐢                            |
 | **HexaMonitor - v1.0** | Affichage instable, infos système mal rafraîchies 🧯                                           |
 | **HexaScan - v1.0**    | Pas assez précis pour les besoins actuels, nécessite une refonte complète 🔬                  |
+| **HexaSpliter - v1.0**    | Ne recolle poas les morceaux 🔪                                                              |
+| **HexaHide - v1.0**    | Ne maerche tout simplement pas 🫣                                                                  |
 
 ---
 
