@@ -2,6 +2,9 @@
 echo Installation des bibliothèques nécessaires...
 
 :: Installer les bibliothèques Python
+pip install pydub
+pip install opencv-python
+pip install moviepy
 pip install pycryptodome
 pip install pillow
 pip install tk
@@ -21,6 +24,9 @@ pip install setuptools
 pip install WMI
 pip install scapy
 pip install cryptography
+pip install imageio 
+pip install imageio-ffmpeg 
+pip install soundfile
 
 echo Installation terminée !
 pause
