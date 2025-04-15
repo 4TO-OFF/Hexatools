@@ -1,4 +1,4 @@
-# 🧰 HexaTools V 0.8.0 - Suite d'outils pratiques
+# 🧰 HexaTools V 0.8.1 - Suite d'outils pratiques
 
 ## 📌 Présentation
 HexaTools est un projet regroupant plusieurs mini-outils pensés pour faciliter des tâches techniques du quotidien : QR code, analyse de fichiers, réseau, sécurité, et plus encore.  
