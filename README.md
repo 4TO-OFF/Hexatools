@@ -1,4 +1,4 @@
-# 🧰 HexaTools V 0.8.1 - Suite d'outils pratiques
+# 🧰 HexaTools V 0.9.1 - Suite d'outils pratiques
 
 ## 📌 Présentation
 HexaTools est un projet regroupant plusieurs mini-outils pensés pour faciliter des tâches techniques du quotidien : QR code, analyse de fichiers, réseau, sécurité, et plus encore.  
@@ -26,12 +26,12 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 
 | **Nom**         | **Problème actuel**                                                                           |
 |-----------------|-----------------------------------------------------------------------------------------------|
-| **HexaClean - v1.0**   | Freeze ou crash pendant l’analyse des fichiers / doublons 💥                                  |
-| **HexaFind - v1.0**    | Trop lent, freeze facilement si beaucoup de fichiers à chercher 🐢                            |
-| **HexaMonitor - v1.0** | Affichage instable, infos système mal rafraîchies 🧯                                           |
-| **HexaScan - v1.0**    | Pas assez précis pour les besoins actuels, nécessite une refonte complète 🔬                  |
-| **HexaSpliter - v1.0**    | Ne recolle poas les morceaux 🔪                                                              |
-| **HexaHide - v1.0**    | Ne maerche tout simplement pas 🫣                                                                  |
+| **HexaClean - v0.0**   | Freeze ou crash pendant l’analyse des fichiers / doublons 💥                                  |
+| **HexaFind - v0.0**    | Trop lent, freeze facilement si beaucoup de fichiers à chercher 🐢                            |
+| **HexaMonitor - v0.0** | Affichage instable, infos système mal rafraîchies 🧯                                           |
+| **HexaScan - v0.0**    | Pas assez précis pour les besoins actuels, nécessite une refonte complète 🔬                  |
+| **HexaSpliter - v0.0**    | Ne recolle poas les morceaux 🔪                                                              |
+| **HexaHide - v0.0**    | Ne maerche tout simplement pas 🫣                                                                  |
 
 ---
 
