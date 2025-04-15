@@ -18,6 +18,7 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaCrypt - v2.0** | Crypte les fichier avec un système de mot de passe 🔐                        |
 | **HexaPixel - v1.0** | Révèle aléatoirement des pixels d'une image et affiche la progression 🎨        |
 | **HexaASCII - v1.0** | Transforme en image ne carctère ASCII 🖼️                                      |
+| **HexaConvert - v1.1** | Change le format de fichier vidéo, audio, image. 📄                              |
 
 ---
 
@@ -25,7 +26,6 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 
 | **Nom**         | **Problème actuel**                                                                           |
 |-----------------|-----------------------------------------------------------------------------------------------|
-| **HexaConvert - v1.0** | Ne fonctionne pas sans des outils externes compliqués à installer 🔧                          |
 | **HexaClean - v1.0**   | Freeze ou crash pendant l’analyse des fichiers / doublons 💥                                  |
 | **HexaFind - v1.0**    | Trop lent, freeze facilement si beaucoup de fichiers à chercher 🐢                            |
 | **HexaMonitor - v1.0** | Affichage instable, infos système mal rafraîchies 🧯                                           |
@@ -65,7 +65,8 @@ HexaTools/
 | ├── HexaInfo/
 | ├── Hexanet/
 | ├── HexaPixel/
-| └── HexaShort/
+| ├── HexaConvert/
+| └── HexaASCII/
 |
 ├─┬─ don't work/
 | └── scripts non fonctionelles/
