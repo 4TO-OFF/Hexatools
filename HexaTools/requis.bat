@@ -2,6 +2,7 @@
 echo Installation des bibliothèques nécessaires...
 
 :: Installer les bibliothèques Python
+pip install opencv-python
 pip install pydub
 pip install opencv-python
 pip install moviepy

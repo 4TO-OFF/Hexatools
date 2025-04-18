@@ -15,7 +15,7 @@ TOOLS_FOLDER = os.path.join(BASE_DIR, "script")
 # 📦 Fenêtre principale
 app = ctk.CTk()
 app.title("HexaTools 🚀 Launcher")
-app.geometry("500x600")
+app.geometry("800x1000")
 
 # 🧩 Titre
 title = ctk.CTkLabel(app, text="🎛️ HexaTools Launcher", font=("Arial", 24))
@@ -29,7 +29,7 @@ for file in os.listdir(TOOLS_FOLDER):
         tools.append((tool_name, os.path.join(TOOLS_FOLDER, file)))
 
 # 📄 Liste des outils
-frame = ctk.CTkScrollableFrame(app, width=460, height=400)
+frame = ctk.CTkScrollableFrame(app, width=660, height=600)
 frame.pack(pady=10)
 
 def launch_tool(path):
@@ -40,7 +40,7 @@ for name, path in tools:
     btn.pack(pady=5, padx=10, fill="x")
 
 # 🖼️ Footer
-footer = ctk.CTkLabel(app, text="Made by 4TO-OFF 💻", font=("Arial", 12))
+footer = ctk.CTkLabel(app, text="Made by 4TO-OFF 💻   -    Check : bento.me/4to", font=("Arial", 12))
 footer.pack(pady=10)
 
 # 🧠 Start
