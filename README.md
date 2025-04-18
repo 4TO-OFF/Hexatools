@@ -22,6 +22,7 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaImageCompressor - v1.0** | Comprèsse les images (png, jpg, webp) 🖼️                             |
 | **HexaSysInfo - v1.0** | Donne plein d'info sur ton système 📄                                       |
 | **HexaNumConvert - v1.0** | Donne la valeur d'un chiffre en binaire / hexa 🧮                          |
+| **HexaEXIF - v1.0** | Donne des donné sur une image 🖼️                                                 |
 
 ---
 
@@ -71,6 +72,7 @@ HexaTools/
 | ├── HexaConvert/
 | ├── HexaImageCompessor/
 | ├── HexaSysInfo/
+| ├── HexaEXIF/
 | └── HexaASCII/
 |
 ├─┬─ don't work/
