@@ -94,7 +94,4 @@ Projet open-source sous licence **MIT**.
 Développé par **4TO_OFF**
 
 - 🔗 [Tout sur moi](https://bento.me/4to)
-- 🔗 [GitHub](https://github.com/4TO-OFF)
-- 💙 [Ko-fi](https://ko-fi.com/4to_off)
-- 💬 [Discord](https://discord.gg/WpwYCyWsxN)
-- 📺 [YouTube](http://www.youtube.com/@4TO_OFF)
+
