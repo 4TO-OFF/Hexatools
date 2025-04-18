@@ -1,4 +1,4 @@
-# 🧰 HexaTools V 1.1.1 - Suite d'outils pratiques
+# 🧰 HexaTools V 1.2.1 - Suite d'outils pratiques
 
 ## 📌 Présentation
 HexaTools est un projet regroupant plusieurs mini-outils pensés pour faciliter des tâches techniques du quotidien : QR code, analyse de fichiers, réseau, sécurité, et plus encore.  
@@ -21,6 +21,7 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaConvert - v1.1** | Change le format de fichier vidéo, audio, image. 📄                              |
 | **HexaImageCompressor - v1.0** | Comprèsse les images (png, jpg, webp) 🖼️                             |
 | **HexaSysInfo - v1.0** | Donne plein d'info sur ton système 📄                                       |
+| **HexaNumConvert - v1.0** | Donne la valeur d'un chiffre en binaire / hexa 🧮                          |
 
 ---
 
