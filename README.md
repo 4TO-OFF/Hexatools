@@ -68,6 +68,8 @@ HexaTools/
 | ├── Hexanet/
 | ├── HexaPixel/
 | ├── HexaConvert/
+| ├── HexaImageCompessor/
+| ├── HexaSysInfo/
 | └── HexaASCII/
 |
 ├─┬─ don't work/
