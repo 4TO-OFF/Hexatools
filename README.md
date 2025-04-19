@@ -1,4 +1,4 @@
-# 🧰 HexaTools V 1.4.1 - Suite d'outils pratiques
+# 🧰 HexaTools V 1.5.1 - Suite d'outils pratiques
 
 ## 📌 Présentation
 HexaTools est un projet regroupant plusieurs mini-outils pensés pour faciliter des tâches techniques du quotidien : QR code, analyse de fichiers, réseau, sécurité, et plus encore.  
@@ -23,7 +23,8 @@ Certains outils sont finalisés et fonctionnels, d'autres sont encore en cours d
 | **HexaSysInfo - v1.0** | Donne plein d'info sur ton système 📄                                       |
 | **HexaNumConvert - v1.0** | Donne la valeur d'un chiffre en binaire / hexa 🧮                          |
 | **HexaEXIF - v1.0** | Donne des donné sur une image 🖼️                                                 |
-| **HexaHash - v1.0** | Crée et verifie le hash d'un fichier 📄                                          |
+| **HexaHash - v1.0** | Crée et verifie le hash d'un fichier 🗂️                                          |
+| **HexaBallBreaker - v1.0** | Un ballbreaker (jeux) 🧱                                         |
 
 ---
 
@@ -75,6 +76,7 @@ HexaTools/
 | ├── HexaSysInfo/
 | ├── HexaEXIF/
 | ├── HexaHash/
+| ├── HexaBallBreaker/
 | └── HexaASCII/
 |
 ├─┬─ don't work/
